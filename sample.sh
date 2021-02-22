@@ -1,0 +1,1 @@
+appsdc offline trianing program
